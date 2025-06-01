@@ -69,6 +69,3 @@ python main.py
 - `torchinfo` is optional and used for displaying model architecture summaries.
 - `matplotlib` is included for potential visualizations.
 
-## 📫 Contact
-
-For questions, feedback, or collaboration, feel free to open an issue or reach out via [GitHub Issues](https://github.com/Prachet-Dev-Singh/Hyperspectral_img_Class_ViT/issues).
